@@ -1,0 +1,6 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\09. MaximalElementInPortionOfArray\bin\Debug\_09.MaximalElementInPortionOfArray.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\09. MaximalElementInPortionOfArray\bin\Debug\_09.MaximalElementInPortionOfArray.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\09. MaximalElementInPortionOfArray\bin\Debug\_09.MaximalElementInPortionOfArray.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\09. MaximalElementInPortionOfArray\obj\Debug\09. MaximalElementInPortionOfArray.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\09. MaximalElementInPortionOfArray\obj\Debug\_09.MaximalElementInPortionOfArray.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\09. MaximalElementInPortionOfArray\obj\Debug\_09.MaximalElementInPortionOfArray.pdb

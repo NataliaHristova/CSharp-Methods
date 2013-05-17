@@ -1,0 +1,6 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\10. Factorial\bin\Debug\_10.Factorial.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\10. Factorial\obj\Debug\10. Factorial.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\10. Factorial\bin\Debug\_10.Factorial.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\10. Factorial\bin\Debug\_10.Factorial.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\10. Factorial\obj\Debug\_10.Factorial.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\10. Factorial\obj\Debug\_10.Factorial.pdb

@@ -1,0 +1,8 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\04. CountNumberInArrays\bin\Debug\_04.CountNumberInArrays.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\04. CountNumberInArrays\bin\Debug\_04.CountNumberInArrays.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\04. CountNumberInArrays\bin\Debug\_04.CountNumberInArrays.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\04. CountNumberInArrays\obj\Debug\_04.CountNumberInArrays.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\04. CountNumberInArrays\obj\Debug\_04.CountNumberInArrays.pdb
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\04. CountNumberInArrays\bin\Debug\_04.CountNumberInArrays.exe.config
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\04. CountNumberInArrays\obj\Debug\_04.CountNumberInArrays.exe
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\04. CountNumberInArrays\obj\Debug\_04.CountNumberInArrays.pdb

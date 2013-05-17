@@ -1,0 +1,9 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\bin\Debug\_07.MethodReversesDigits.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\bin\Debug\_07.MethodReversesDigits.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\bin\Debug\_07.MethodReversesDigits.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\obj\Debug\07. MethodReversesDigits.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\obj\Debug\_07.MethodReversesDigits.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\obj\Debug\_07.MethodReversesDigits.pdb
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\bin\Debug\_07.MethodReversesDigits.exe.config
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\obj\Debug\_07.MethodReversesDigits.exe
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\07. MethodReversesDigits\obj\Debug\_07.MethodReversesDigits.pdb

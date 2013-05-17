@@ -1,0 +1,6 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\13. MethodsAndValidation\bin\Debug\_13.MethodsAndValidation.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\13. MethodsAndValidation\bin\Debug\_13.MethodsAndValidation.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\13. MethodsAndValidation\bin\Debug\_13.MethodsAndValidation.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\13. MethodsAndValidation\obj\Debug\13. MethodsAndValidation.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\13. MethodsAndValidation\obj\Debug\_13.MethodsAndValidation.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\13. MethodsAndValidation\obj\Debug\_13.MethodsAndValidation.pdb

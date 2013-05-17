@@ -1,0 +1,6 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\14. MinMaxAverageSumProduct\bin\Debug\_14.MinMaxAverageSumProduct.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\14. MinMaxAverageSumProduct\bin\Debug\_14.MinMaxAverageSumProduct.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\14. MinMaxAverageSumProduct\bin\Debug\_14.MinMaxAverageSumProduct.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\14. MinMaxAverageSumProduct\obj\Debug\14. MinMaxAverageSumProduct.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\14. MinMaxAverageSumProduct\obj\Debug\_14.MinMaxAverageSumProduct.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\14. MinMaxAverageSumProduct\obj\Debug\_14.MinMaxAverageSumProduct.pdb

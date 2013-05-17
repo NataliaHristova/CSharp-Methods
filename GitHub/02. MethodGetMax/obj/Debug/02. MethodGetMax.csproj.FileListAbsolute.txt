@@ -1,0 +1,9 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\bin\Debug\_02.MethodGetMax.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\bin\Debug\_02.MethodGetMax.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\bin\Debug\_02.MethodGetMax.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\obj\Debug\02. MethodGetMax.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\obj\Debug\_02.MethodGetMax.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\obj\Debug\_02.MethodGetMax.pdb
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\bin\Debug\_02.MethodGetMax.exe.config
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\obj\Debug\_02.MethodGetMax.exe
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\02. MethodGetMax\obj\Debug\_02.MethodGetMax.pdb

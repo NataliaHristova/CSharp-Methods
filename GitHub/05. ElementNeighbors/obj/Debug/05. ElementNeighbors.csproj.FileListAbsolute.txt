@@ -1,0 +1,9 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\bin\Debug\_05.ElementNeighbors.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\obj\Debug\05. ElementNeighbors.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\bin\Debug\_05.ElementNeighbors.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\bin\Debug\_05.ElementNeighbors.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\obj\Debug\_05.ElementNeighbors.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\obj\Debug\_05.ElementNeighbors.pdb
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\bin\Debug\_05.ElementNeighbors.exe.config
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\obj\Debug\_05.ElementNeighbors.exe
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\05. ElementNeighbors\obj\Debug\_05.ElementNeighbors.pdb

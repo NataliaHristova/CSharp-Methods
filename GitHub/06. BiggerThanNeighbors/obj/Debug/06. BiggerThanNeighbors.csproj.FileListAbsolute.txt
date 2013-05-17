@@ -1,0 +1,9 @@
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\bin\Debug\_06.BiggerThanNeighbors.exe.config
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\bin\Debug\_06.BiggerThanNeighbors.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\bin\Debug\_06.BiggerThanNeighbors.pdb
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\obj\Debug\06. BiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\obj\Debug\_06.BiggerThanNeighbors.exe
+D:\Documents\Telerik Academy\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\obj\Debug\_06.BiggerThanNeighbors.pdb
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\bin\Debug\_06.BiggerThanNeighbors.exe.config
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\obj\Debug\_06.BiggerThanNeighbors.exe
+D:\Documents\Telerik Academy\COURSES\C# програмиране - част II\3. Методи\Homework_C2_3\Methods\06. BiggerThanNeighbors\obj\Debug\_06.BiggerThanNeighbors.pdb
